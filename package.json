@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "socket.io": "~1.4.6",
+    "socket.io": "~3.0.0",
     "http": "~0.0.0"
   }
 }
